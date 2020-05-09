@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="SlidingMenu/Dashboard_1/src"/>
+	<classpathentry kind="lib" path="SlidingMenu/Librerias/Dashboard_1.jar"/>
+	<classpathentry kind="lib" path="SlidingMenu/Librerias/lib/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="SlidingMenu/Librerias/lib/JPlaceHolder.jar"/>
+	<classpathentry kind="lib" path="SlidingMenu/Librerias/lib/NefAnimacion_V2.1_jdk18.jar"/>
+	<classpathentry kind="output" path="SlidingMenu/Dashboard_1/build/classes"/>
+</classpath>
